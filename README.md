@@ -84,3 +84,7 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `yarn build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+https://github.com/foxypool/chives-blockchain/commit/2fd2d1c94c653a8726c0fe3b8b139bd3ea2121f7
+https://github.com/foxypool/chia-blockchain/blob/c2e51c465199166b303db0a4e430323155f5a6df/chia/farmer/pooling/og_pool_protocol.py#L21-L24
+https://github.com/foxypool/chia-blockchain/blob/c2e51c465199166b303db0a4e430323155f5a6df/chia/farmer/farmer_api.py#L613-L650
